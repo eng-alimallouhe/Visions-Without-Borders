@@ -1,0 +1,6 @@
+@VWBMS.Application_HostAddress = http://localhost:5170
+
+GET {{VWBMS.Application_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
